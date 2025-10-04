@@ -19,6 +19,13 @@ It provides an efficient and intuitive way to **manage students’ attendance, m
 ## 📱 Screenshots
 
  ![Login](assets/screenshots/preview.png)
+ 
+ ---
+
+## 🔗 Links
+
+- **App Store** – [Here](https://apps.apple.com/uz/app/onur-group/id6738658032)  
+- **Play Store** – [Here](https://play.google.com/store/apps/details?id=uz.sectorsoft.fitrat&pcampaignid=web_share)  
 
 ---
 
