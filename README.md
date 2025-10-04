@@ -28,8 +28,6 @@ It provides an efficient and intuitive way to **manage students’ attendance, m
 
 - **Flutter** – Frontend framework  
 - **Dart** – Programming language  
-- **Firebase / REST API** – For authentication, database, and messaging  
-- **Riverpod / Bloc** – State management (depending on your implementation)
-
-# Run the app
-flutter run
+- **REST API** – For authentication, database, and messaging  
+- **Riverpod & Provider** – State management
+- **Firebase Notifications** – Push notifications
