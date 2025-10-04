@@ -1,7 +1,12 @@
+# 📱 Preview
+<p align="center">
+  <img src="assets/screenshots/preview.png" alt="App Preview"/>
+</p>
+
 # 📚 Fitrat Teachers
 
-**Fitrat Teachers** is a Flutter-based mobile application designed for the **teachers of Fitrat Education Center**.  
-It provides an efficient and intuitive way to **manage students’ attendance, marks, performance statistics**, and **communicate directly** with students through chat.
+**Fitrat Teachers** is a Flutter-based mobile application developed for the **teachers of Fitrat Education Center**.  
+It helps teachers **manage students’ attendance, marks, performance statistics**, and **chat directly** with students in one unified platform.
 
 ---
 
@@ -16,23 +21,25 @@ It provides an efficient and intuitive way to **manage students’ attendance, m
 
 ---
 
-## 📱 Screenshots
+## 🔗 Download Links
 
- ![Login](assets/screenshots/preview.png)
- 
- ---
-
-## 🔗 Links
-
-- **App Store** – [Here](https://apps.apple.com/uz/app/onur-group/id6738658032)  
-- **Play Store** – [Here](https://play.google.com/store/apps/details?id=uz.sectorsoft.fitrat&pcampaignid=web_share)  
+- 📱 [**Play Store**](https://play.google.com/store/apps/details?id=uz.sectorsoft.fitrat&pcampaignid=web_share)  
+- 🍎 [**App Store**](https://apps.apple.com/uz/app/onur-group/id6738658032)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Flutter** – Frontend framework  
-- **Dart** – Programming language  
-- **REST API** – For authentication, database, and messaging  
-- **Riverpod & Provider** – State management
-- **Firebase Notifications** – Push notifications
+- **Flutter** – Cross-platform UI framework  
+- **Dart** – Main programming language  
+- **REST API** – Backend communication  
+- **Riverpod & Provider** – State management  
+- **Firebase** – Push notifications
+- **Yandex AppMetrica** – Analystics & User stats
+
+---
+
+## 👨‍💻 About
+
+Developed by **Abduazim Abduqahhorov**, Flutter Developer (Fitrat Education Center).  
+📍 Uzbekistan | ✉️ [abdukhaxxoroff@gmail.com](mailto:abdukhaxxoroff@gmail.com)
