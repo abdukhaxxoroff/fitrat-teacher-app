@@ -18,9 +18,7 @@ It provides an efficient and intuitive way to **manage students’ attendance, m
 
 ## 📱 Screenshots
 
-| Login Screen | Dashboard | Attendance | Chat |
-|---------------|------------|-------------|------|
-| ![Login](assets/screenshots/login.png) | ![Dashboard](assets/screenshots/dashboard.png) | ![Attendance](assets/screenshots/attendance.png) | ![Chat](assets/screenshots/chat.png) |
+ ![Login](assets/screenshots/preview.png)
 
 ---
 
