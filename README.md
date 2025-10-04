@@ -24,7 +24,7 @@ It helps teachers **manage students’ attendance, marks, performance statistics
 ## 🔗 Download Links
 
 - 📱 [**Play Store**](https://play.google.com/store/apps/details?id=uz.sectorsoft.fitrat&pcampaignid=web_share)  
-- 🍎 [**App Store**](https://apps.apple.com/uz/app/onur-group/id6738658032)
+- 🍎 [**App Store**](https://apps.apple.com/uz/app/ilm-ustozlar/id6741436241)
 
 ---
 
